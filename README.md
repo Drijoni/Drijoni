@@ -1,7 +1,7 @@
 # About Me :
 Hi 👋, I'm Drijon\
 A passionate Web Developer from Kosovo
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **SaveTheTrees**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **any PHP project**
 
