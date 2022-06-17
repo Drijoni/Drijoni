@@ -1,5 +1,5 @@
 # About Me :
-Hi 👋, I'm Drijon\
+Hi 👋, I'm Drijon Halili\
 A passionate Web Developer from Kosovo
 - 🔭 I’m currently working on **SaveTheTrees**
 - 🌱 I’m currently learning **React**
