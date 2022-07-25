@@ -1,9 +1,9 @@
 # About Me :
 Hi 👋, I'm Drijon Halili\
 A passionate Web Developer from Kosovo
-- 🔭 I’m currently working on **SaveTheTrees**
+<!-- 🔭 I’m currently working on **Discipline App**
 - 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **any PHP project**
+- 👯 I’m looking to collaborate on **any PHP project**-->
 
 # 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/521062959154462720)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drijon) 
