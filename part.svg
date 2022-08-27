@@ -1,0 +1,39 @@
+
+<svg fill="none"  width="auto" height="400" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<style type="text/css">
+div {
+	display: flex;
+	gap:50px;
+}
+li {
+	font-weight: bold;
+}
+</style>
+
+<h3>Technologies</h3>
+<div>
+<li>HTML</li>
+<li>CSS / SASS</li>
+<li>JavaScript</li>
+<li>PHP</li>
+<li>MySql</li>
+<li>Java</li>
+</div>
+
+<h3>Libraries / Frameworks</h3>
+<div>
+<li>jQuery</li>
+<li>React Native</li>
+<li>Bootstrap</li>
+<li>Tailwind</li>
+</div>
+	
+<h3>CMS</h3>
+<div>
+<li>WordPress</li>
+<li>WordPress Advanced</li>
+</div>
+  
+</foreignObject>
+</svg>
