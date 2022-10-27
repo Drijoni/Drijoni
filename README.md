@@ -1,8 +1,8 @@
 # About Me :
 Hi, I'm Drijon Halili\
 A passionate Web Developer from Kosovo
-<!-- 🔭 I’m currently working on **Discipline App**-->
-- 🌱 I’m currently learning **React**
+<!-- 🔭 I’m currently working on **Discipline App**>
+- 🌱 I’m currently learning **React**-->
 <!--- 👯 I’m looking to collaborate on **any PHP project**-->
 
 # Socials
